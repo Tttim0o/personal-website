@@ -10,3 +10,9 @@ body {
   font-family: 'Arial';
   background: rgb(0, 119, 255);
 }
+ a {
+        color: black
+    }
+h,h1,h2,h3,h4,h5,h6 {
+        color: rgb(255, 0, 0)
+    }
